@@ -79,14 +79,13 @@ insert into parc_route (default,'Parc National Analamazaotra',
 (default,'Parc National de Zombitse-Vohibasia',
 'Le Parc National de Zombitse-Vohibasia est situé dans le Sud-Ouest de Madagascar, à 135 km au Nord-Est de Toliara.','16 170 ha','Atsimo-Andrefana',  22.753,  44.6167),
 
-(default,'Parc National Analamazaotra',
-'Région d’Alaotra Mangoro. District de Moramanga, entre la Commune Rurale d’Andasibe et d’Ambatovola.','810 ha','Alaotra - Mangoro', -18.3833, 48.4667),
+(default,'Parc National Marolambo',
+'Le Parc National Marolambo se trouve à cheval entre plusieurs régions notamment Atsinanana, Vatovavy-Fitovinany, Vakinankaratra et Amoron’i Mania. Les districts touchés par le Parc sont Marolambo (Atsinanana), Antanifotsy (Vakinankaratra), Fandriana (Amoron''i Mania), Nosy Varika (Vatovavy-Fitovinany), Ifanadiana (Vatovavy-Fitovinany), Ambositra (Amoron''i Mania).','95 063 ha','Vatovavy-Fitovinany', -19.66673, 47.5
+(default,'Parc National Masoala et Nosy Mangabe',
+'Le Parc National Masoala est situé au Nord-Est de Madagascar et est limité à l’Ouest par la Baie d’Antongil et à l’Est par l’Océan Indien. Administrativement, la presqu’île Masoala se trouve à cheval entre les régions Sava et Analanjirofo.','230 000ha','Sava', -15.45, 49.9 ),
 
-(default,'Parc National Analamazaotra',
-'Région d’Alaotra Mangoro. District de Moramanga, entre la Commune Rurale d’Andasibe et d’Ambatovola.','810 ha','Alaotra - Mangoro', -18.3833, 48.4667),
-
-(default,'Parc National Analamazaotra',
-'Région d’Alaotra Mangoro. District de Moramanga, entre la Commune Rurale d’Andasibe et d’Ambatovola.','810 ha','Alaotra - Mangoro', -18.3833, 48.4667),
+(default,'Parc National Midongy du Sud',
+'49.9 Le Parc National Midongy Befotaka se trouve dans la partie Sud Est de Madagascar à environ à 90 km de Vangaindrano dans la Région Atsimo-Atsinanana','192 198ha',' Atsimo-Atsinanana', - 23.2667, 46.7333),
 
 (default,'Parc National Analamazaotra',
 'Région d’Alaotra Mangoro. District de Moramanga, entre la Commune Rurale d’Andasibe et d’Ambatovola.','810 ha','Alaotra - Mangoro', -18.3833, 48.4667),
